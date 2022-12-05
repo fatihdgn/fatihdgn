@@ -38,7 +38,7 @@ I'm designing and developing cloud based SaaS solutions in my day to day work us
 
 ### Interview with ChatGPT
 
-I instructed the ChatGPT to pretend that it is a interviewer, using the prompt [here](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md) and here is the result.
+I instructed the ChatGPT to pretend that it is an interviewer, using the prompt [here](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md) and here is the result.
 
 I want you to act as an interviewer. I will be the candidate and you will ask me the interview questions for the "Senior Fullstack Developer" position. The main technologies are C# and Angular. I want you to only reply as the interviewer. Do not write all the conservation at once. I want you to only do the interview with me. Ask me the questions and wait for my answers. Do not write explanations. Ask me the questions one by one like an interviewer does and wait for my answers. My first sentence is "Hi"
 
