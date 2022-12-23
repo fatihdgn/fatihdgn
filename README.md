@@ -1,7 +1,7 @@
 Hi 👋 My name is Fatih Doğan
 ============================
 
-Principal Software Developer @ PEAKUP
+Principal Software Developer
 -------------------------------------
 
 I was born in 94 at Bakırköy, Istanbul and raised in Istanbul too. I went to BilgeAdam's Software and Database Expertise program when I was a student at high school and received an outstanding achievement certificate at the end. I've graduated from Ahmet Yesevi University's Computer Programming associate program later down the line. 
@@ -10,7 +10,6 @@ I'm designing and developing cloud based SaaS solutions in my day to day work us
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [fth.dgn@outlook.com](mailto:fth.dgn@outlook.com)
-* 🚀  I'm currently working on [PEAKUP Authenticator](http://auth.peakup.org)
 
 ### Skills
 
