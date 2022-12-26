@@ -1,7 +1,7 @@
 Hi 👋 My name is Fatih Doğan
 ============================
 
-Software Developer
+Software Developer @ VavaCars
 -------------------------------------
 
 I was born in 94 at Bakırköy, Istanbul and raised in Istanbul too. I went to BilgeAdam's Software and Database Expertise program when I was a student at high school and received an outstanding achievement certificate at the end. I've graduated from Ahmet Yesevi University's Computer Programming associate program later down the line. 
