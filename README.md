@@ -9,6 +9,7 @@ I was born in 94 at Bakırköy, Istanbul and raised in Istanbul too. I went to B
 I'm designing and developing cloud based SaaS solutions in my day to day work using .NET and C#. Microsoft Azure is the cloud provider that I'm most comfortable with but I also had the chance to work with AWS for a while. For CI/CD stuff, I'm used to Azure DevOps, but I also know GitHub Actions enough to run my blog
 
 * 🌍  I'm based in Istanbul
+* 🌐  My website is at [fatihdgn.com](https://fatihdgn.com)
 * ✉️  You can contact me at [fth.dgn@outlook.com](mailto:fth.dgn@outlook.com)
 
 ### Skills
