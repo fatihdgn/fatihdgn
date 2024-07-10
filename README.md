@@ -1,7 +1,7 @@
 Hi 👋 My name is Fatih Doğan
 ============================
 
-Senior .NET Developer
+Senior Backend Engineer
 -------------------------------------
 
 I was born in 94 at Bakırköy, Istanbul and raised in Istanbul too. I went to BilgeAdam's Software and Database Expertise program when I was a student at high school and received an outstanding achievement certificate at the end. I've graduated from Ahmet Yesevi University's Computer Programming associate program later down the line. 
@@ -28,7 +28,7 @@ I'm designing and developing cloud based SaaS solutions in my day to day work us
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/fatihdgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.codewars.com/users/FthDgn" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fatihdgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://x.com/fthdgn_x" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/fatihdgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.codewars.com/users/fthdgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/codewars/branding/master/logo.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fatihdgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://x.com/fthdgn_x" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
