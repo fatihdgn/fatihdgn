@@ -6,7 +6,7 @@ Senior Backend Engineer
 
 I was born in 94 at Bakırköy, Istanbul and raised in Istanbul too. I went to BilgeAdam's Software and Database Expertise program when I was a student at high school and received an outstanding achievement certificate at the end. I've graduated from Ahmet Yesevi University's Computer Programming associate program later down the line. 
 
-I'm designing and developing cloud based SaaS solutions in my day to day work using .NET and C#. Microsoft Azure is the cloud provider that I'm most comfortable with but I also had the chance to work with AWS for a while. For CI/CD stuff, I'm used to Azure DevOps, but I also know GitHub Actions enough to run my blog
+I'm mainly designing and developing services using .NET and C#. Microsoft Azure is the cloud provider that I'm most comfortable with but I also had the chance to try and dabble with AWS for a while. For CI/CD stuff, I'm used to Azure DevOps, but I also know GitHub Actions enough to run my blog.
 
 * 🌍  I'm based in Istanbul
 * 🌐  My website is at [fatihdgn.com](https://fthdgn.com)
