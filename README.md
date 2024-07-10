@@ -1,7 +1,6 @@
 Hi 👋 <br>
-My name is Fatih Doğan <br>
+My name is Fatih Doğan
 ============================
-
 Senior Backend Engineer
 -------------------------------------
 
