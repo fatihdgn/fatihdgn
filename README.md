@@ -1,4 +1,5 @@
-Hi 👋 My name is Fatih Doğan
+Hi 👋 <br>
+My name is Fatih Doğan <br>
 ============================
 
 Senior Backend Engineer
@@ -9,7 +10,7 @@ I was born in 94 at Bakırköy, Istanbul and raised in Istanbul too. I went to B
 I'm mainly designing and developing services using .NET and C#. Microsoft Azure is the cloud provider that I'm most comfortable with but I also had the chance to try and dabble with AWS for a while. For CI/CD stuff, I'm used to Azure DevOps, but I also know GitHub Actions enough to run my blog.
 
 * 🌍  I'm based in Istanbul
-* 🌐  My website is at [fatihdgn.com](https://fthdgn.com)
+* 🌐  My website is at [fthdgn.com](https://fthdgn.com)
 * ✉️  You can contact me at [fth.dgn@outlook.com](mailto:fth.dgn@outlook.com)
 
 ### Skills
