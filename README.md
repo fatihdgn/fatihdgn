@@ -34,4 +34,4 @@ I'm mainly designing and developing services using .NET and C#. Microsoft Azure 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/fatihdgn"><img src="https://github-readme-stats.vercel.app/api?username=fatihdgn&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="fatihdgn's GitHub stats" /></a>
+<a href="http://www.github.com/fthdgn-gh"><img src="https://github-readme-stats.vercel.app/api?username=fthdgn-gh&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="fthdgn-gh's GitHub stats" /></a>
